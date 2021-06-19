@@ -15,7 +15,7 @@ Roll no. - 1900300100105
 --- 
 
 <!-- OL -->
-##  [Module 3 : ]
+##  [Module 2 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE2)
 <!-- UL -->
 * Learnt about conditional statements
 * Learnt about basic and advanced looping statements
@@ -23,7 +23,17 @@ Roll no. - 1900300100105
 ---
 
 <!-- OL -->
-##  [Module 4 : ]
+
+<!-- OL -->
+##  [Module 3 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE3)
+<!-- UL -->
+* Learnt about conditional statements
+* Learnt about basic and advanced looping statements
+
+---
+
+<!-- OL -->
+##  [Module 4 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE4)
 <!-- UL -->
 * Learnt to take input form the user in Python
 * Learnt about output formatting
@@ -32,7 +42,7 @@ Roll no. - 1900300100105
 ---
 
 <!-- OL -->
-##  [Module 5 : ]
+##  [Module 5 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE5)
 <!-- UL -->
 * Learnt about Strings in Python
 * Learnt about Lists in Python
@@ -40,7 +50,7 @@ Roll no. - 1900300100105
 ---
 
 <!-- OL -->
-##  [Module 6 : ]
+##  [Module 6 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE6)
 <!-- UL -->
 * Learnt about Dictionary in Python
 * Learnt about Sets and Tuples in Python
@@ -48,7 +58,7 @@ Roll no. - 1900300100105
 ---
 
 <!-- OL -->
-##  [Module 7 : ]
+##  [Module 7 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE7)
 <!-- UL -->
 * Learnt about User Defined Functions in Python
 * Learnt about Module in Python
@@ -57,7 +67,7 @@ Roll no. - 1900300100105
 ---
 
 <!-- OL -->
-##  [Module 8 : ]
+##  [Module 8 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE8)
 <!-- UL -->
 * Learnt about Lists and Dictionary in Python
 * Learnt about Set Comprehension in Python
@@ -65,14 +75,14 @@ Roll no. - 1900300100105
 ---
 
 <!-- OL -->
-##  [Module 9 : ]
+##  [Module 9 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE9)
 <!-- UL -->
 * Learnt about File Handling in Python
 
 ---
 
 <!-- OL -->
-##  [Module 10 : ]
+##  [Module 10 : ](https://github.com/sharmakhushi9757/Python_Sig_Task/tree/master/MODULE10)
 <!-- UL -->
 * Learnt about Classes and Objects in Python
 
